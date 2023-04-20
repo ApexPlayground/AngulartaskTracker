@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "May 5th at 2:30pm",
-      "reminder": true
+      "text": "Go to school on saturday",
+      "day": "April 22nd at 10am",
+      "reminder": false,
+      "id": 4
     },
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "May 6th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "text": "Cook dinner",
+      "day": "April 20th at 8pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
