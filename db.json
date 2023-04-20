@@ -3,7 +3,7 @@
     {
       "text": "Go to school on saturday",
       "day": "April 22nd at 10am",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
